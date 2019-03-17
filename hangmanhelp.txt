@@ -1,0 +1,22 @@
+Hangman Help:
+
+Hangman v. 5.1.2
+
+Game Rules:
+Hangman is a word guessing game. 
+The object of the game is to guess the word in a certain number of guesses.
+There are no capital letters or punctuation marks. Proper nouns are written in all lowercase, and there are no contractions or abbreviations. 
+You guess by typing in a letter after the line saying:
+	Please guess a letter
+If you know the word, and wish to guess it, type in "word".
+This will give you one chance to type in the word. 
+If you guess it correctly, you win. If you do not type it in correctly, you lose.
+
+Game modes:
+Beginner mode gives you twenty incorrect guesses before you lose.
+Easy mode gives you ten incorrect guesses before you lose.
+Medium mode gives you seven incorrect guesses.
+Hard mode gives you five incorrect guesses.
+
+Troubleshooting:
+Contact Patrick

@@ -1,0 +1,6 @@
+
+You can't move that there!
+You can't move that piece in this direction
+Whoopsy
+There is a piece in the way!
+You can't capture your own piece!

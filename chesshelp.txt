@@ -1,0 +1,42 @@
+Chess help:
+Chess is a game about capturing your opponent's king.
+Each piece may move in distinct ways.
+The first letter of each piece determines its type, the second its color.
+The pieces move as follows:
+Pawn:       Knight:     Bishop:     Rook:       Queen:      King:
+ - - - - -   - • - • -   \ - - - /   - - ^ - -   \ - ^ - /   - - - - -
+ - * + * -   • - - - •   - \ - / -   - - | - -   - \ | / -   - • • • -
+ - - p - -   - - n - -   - - b - -   ‹—— r ——›   ‹—— q ——›   - • k • -
+ - - - - -   • - - - •   - / - \ -   - - | - -   - / | \ -   - • • • -
+ - - - - -   - • - • -   / - - - \   - - ˇ - -   / - ˇ - \   - - - - -
+
+Key:
+ •  Move to that space
+ +  Move to that space, but only if it is unoccupied
+ *  Move to that space, but only if there is an opposing piece there
+ \/ Move as many spaces diagonally as desired
+ ‹——Move as many spaces orthoganally as desired
+No piece may capture another piece of its color
+Only the knight may "jump" over other pieces, no others may pass
+    through another of either color on its path
+
+Check and checkmate:
+    If the king is in danger of being captured, 'Check' will be shown
+    If 'check' is shown, the other player must remove the king from check
+        on their next turn, or they will lose
+    If the king is in check, and it is impossible for the other player to
+        get out of check, 'Checkmate' will be shown
+    Checkmate is the end of the game
+
+Special pawn moves:
+    Pawns may move up to two spaces forwards on their first move
+    Pawns may not capture directly forwards; if there is an enemy piece
+        in front of them, they may not move
+    Pawns may move diagonally only to capture, not if the space is empty
+        or friendly-occupied
+    If a pawn reaches the end of the board, it must change into another
+        piece of the player's desire (except king)
+
+Version and other:
+    Chess v. 2.1.1 created by Patrick Norton
+    Copyright 2018

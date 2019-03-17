@@ -1,0 +1,6 @@
+p,pawn,1*00000*
+n,knight,T0T0T0T0 
+b,bishop,0+0+0+0+ 
+r,rook,+0+0+0+0 
+q,queen,++++++++
+k,king,11111111
